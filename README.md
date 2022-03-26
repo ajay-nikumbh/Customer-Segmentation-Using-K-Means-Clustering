@@ -19,7 +19,7 @@
 
 ![image](https://user-images.githubusercontent.com/37560890/160247878-b928cf0b-1dcd-431f-943a-fd52ab386ad4.png)
 
-5. Missing the values
+5. Missing values check
 
 ![image](https://user-images.githubusercontent.com/37560890/160247910-d9c397b7-0c43-4570-a2db-380eb87c49b1.png)
 
