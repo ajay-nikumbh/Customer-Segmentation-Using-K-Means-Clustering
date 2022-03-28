@@ -1,7 +1,7 @@
 # Customer-Segmentation-Using-K-Means-Clustering
-# Problem Stmt :
-####  You are owing a supermarket mall and through membership cards, you have some basic data about your customers like Customer ID, age, gender, annual income and spending score. 
-#### You want to understand the customers like who are the target customers so that the data report can be given to marketing team and plan the strategy accordingly. 
+# Problem Statement : 
+####  ```You are owing a supermarket mall and through membership cards, you have some basic data about your customers like Customer ID, age, gender, annual income and spending score.``` 
+####  ```You want to understand the customers like who are the target customers so that the data report can be given to marketing team and plan the strategy accordingly.``` 
 
 ![image](https://user-images.githubusercontent.com/37560890/160247662-025f44de-ccde-4ae2-b376-83c67a68807e.png)
 
